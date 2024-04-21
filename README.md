@@ -1,7 +1,7 @@
 <p align="center" width="80%">
 <img src="fig/logo.png" style="width: 60%; min-width: 300px; display: block; margin: auto;">
 </p>
-#ChatAgronomist: A Specialized Large Language Model for Strawberry Production Support
+## ChatAgronomist: A Specialized Large Language Model for Strawberry Production Support
 
 Zhihao Cao, Zhenfeng Jiang, Yong Wang, Hongchun Qu
 
