@@ -14,7 +14,7 @@ Zhihao Cao, Zhenfeng Jiang, Yong Wang, Hongchun Qu
 <img src="fig/F4.png" style="width: 60%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-The pre-trained model Llama 2 [Llama 2-7B](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing).
+The pre-trained model Llama 2 [Llama 2-7B-chat](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf).
 
 The LLaMA-Factory platform [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
 
