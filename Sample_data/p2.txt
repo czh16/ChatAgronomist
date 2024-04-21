@@ -1,0 +1,42 @@
+<Botrytis gray mold>
+Botrytis gray mold infections are most active between 65-75°F with rainfall.
+Apply effective fungicides at pre-bloom, early bloom, and after fruit set. 
+If it has rained since your last bloom-time fungicide application, the next application should include a product with strong efficacy on botrytis. 
+Organic fungicide options
+Spray for botrytis during bloom and post-bloom.
+Rotate between products with efficacy against botrytis including Regalia, Optiva and Serenade (Bacillus subtilis), potassium bicarbonate, and hydrogen peroxide. These products act as preventatives or act by inducing the plant's natural defenses against pathogens and must be applied before the infection occurs.
+
+Rotate fungicides with different modes of action to prevent resistance.
+Learn the mode of action for each product you apply, by looking at the FRAC code.
+Do not rely solely on or make repeated applications of fungicides with the same mode of action or FRAC code. 
+Botrytis populations with resistance to Topsin and Scala have been identified, so they should be used sparingly. Pristine and Rovral are at relatively high risk of resistance. Other products include Inspire Super, Fontelis, Captevate (Captan + fenhexamid), and Switch. 
+
+<leaf-spot-diseases>
+Several pathogens cause leaf spot symptoms on strawberry plants. These diseases include common leaf spot, angular leaf spot, Septoria leaf spot, leaf blight, and leaf scorch.
+Key points about these diseases: 
+They can be difficult to distinguish from one another and should be sent to the UMN Plant Disease Clinic (PDC) for a formal diagnosis. They cannot be formally diagnosed by photos alone. 
+Leaf spot symptoms are extremely common on strawberries grown in Minnesota.
+Infection must be severe before it impacts fruit yield. Small infections are not a significant concern, but if infections spread and become severe they can impact yield by decreasing photosynthesis and plant vigor.
+Some diseases can also spread to the fruit and stems.
+
+<Anthracnose>
+Anthracnose is an occasional strawberry disease but can be highly destructive. It infects the blossoms, petioles, and stems in the early season. Blossom infection leads to small, hard, misshapen fruit, and fruit rot.
+
+Apply conventional or organic fungicides with efficacy for anthracnose during bloom if weather conditions are suitable for this disease. Ideal conditions for anthracnose development are 77-86 degrees F in conjunction with a rain event. 
+
+Fungicides for anthracnose can also be applied during the harvest season to retroactively reduce the spread of existing infections on mature fruit. By this point, economic losses have already occurred. 
+
+If the weather is warm and humid during bloom, do not delay application. Delaying control also increases the risk of infection on mature fruit.
+
+Organic fungicide options
+Serenade products, with Serenade OPTI are reported to have the strongest efficacy. Serenade applications are most effective at the beginning of bloom or shortly before bloom, because it is preventative.
+Other options include hydrogen peroxide, Actinovate, and Double Nickel. Regalia, serifel, neem oil, and potassium bicarbonate, but their efficacy is not well documented.
+Refer to the Organic Production and IPM Guide for Strawberries and the manufacturer labels for more information.
+Synthetic fungicide options
+There are a number of effective fungicides for anthracnose control, listed in the Midwest Fruit Pest Management Guide, which is updated bi-annually.
+Options include Abound, Topsin, Captan, CaptEvate, Flint Extra, Luna Sensation and Pristine.
+Rotate fungicide modes of action to prevent pathogens from developing resistance to the most effective chemistries.
+When selecting fungicides, consider which other diseases the products are effective on and plan accordingly.
+
+Observe pre-harvest intervals
+According to the Midwest Fruit Pest Management Guide, "under heavy anthracnose disease pressure, all fungicides should be combined with Captan" for optimal control. However, applying Captan close to harvest should be avoided, as it leaves visible residues.
